@@ -32,7 +32,7 @@ namespace GitDemo.Controllers
         }
 
         // DELETE: api/Demo/5
-        public void Delete(int id)
+        public void Delete1245(int id)
         {
         }
     }
