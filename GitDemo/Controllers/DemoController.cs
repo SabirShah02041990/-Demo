@@ -12,6 +12,7 @@ namespace GitDemo.Controllers
         // GET: api/Demo
         public IEnumerable<string> Get()
         {
+           
             return new string[] { "value1", "value2" };
         }
 
@@ -32,8 +33,11 @@ namespace GitDemo.Controllers
         }
 
         // DELETE: api/Demo/5
-        public void Delete1245(int id)
+        public void Delete(int id)
         {
+            int i = 0, j = 0, k = 0;
+            i = 10;j = 20;
+            k = i + j;
         }
     }
 }
