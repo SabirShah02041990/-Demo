@@ -44,5 +44,9 @@ namespace GitDemo.Controllers
         {
         
         }
+        public void Delete22(int id)
+        {
+        
+        }
     }
 }
