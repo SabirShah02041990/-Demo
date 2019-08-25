@@ -39,5 +39,10 @@ namespace GitDemo.Controllers
             i = 10;j = 20;
             k = i + j;
         }
+
+        public void Delete2(int id)
+        {
+        
+        }
     }
 }
