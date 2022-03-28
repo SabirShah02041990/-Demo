@@ -38,3 +38,13 @@ dotnet sln <SLN_FILE> add [options] <PROJECT_PATH>
 <PropertyGroup>         --set the startup class
 <StartupObject>CSharpToCopy.TestExtension</StartupObject>
 </PropertyGroup>
+
+Name 	Mail id 	Telephone /Extn
+ (Bangalore based) 
+Akshatha Pai	Akshatha_Pai	080 39802889
+Shrikant R	Shrikant_R	080 39130143
+Veena Panduranga Pai	Veena_Panduranga	080 39802976
+Gopalkrishna	gopalkrishna	080 39802792
+Hari PrasadS	Hari_PrasadS	080 14114122
+Prasad HL	prasad_hl	080 39134215
+Ambarisha R	Ambarisha_R	080 39802297
