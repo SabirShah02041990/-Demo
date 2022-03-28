@@ -1,0 +1,27 @@
+Skill builder need to check
+Updating APN account
+enter your personal email and select Yes for business.
+
+from Paras Jain to everyone:    5:32 PM
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?lacp=tile&tile=dt
+from Paras Jain to everyone:    5:32 PM
+link to the course at skill builder https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?lacp=tile&tile=dt
+
+link to digital course: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?lacp=tile&tile=dt
+
+https://www.youtube.com/watch?v=Q6OgRawyjIQ
+https://www.youtube.com/watch?v=ppG2FFB0mMQ 
+https://aws.amazon.com/about-aws/global-infrastructure/regions_az/?p=ngi&loc=2
+
+68215272
+
+Link to register for the exam: https://aws.amazon.com/certification/certified-cloud-practitioner/
+https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/?cp=sec&sec=prep
+
+The session recording is availalbe here: https://explore.skillbuilder.aws/learn/course/internal/view/elearning/11927/aws-partnercast-foundation-station-office-hours-aws-cloud-practitioner-essentials-module-1-to-6-business   be sure to log in with your APN Partner Credentials !
+
+yes you can. Check this out - https://docs.aws.amazon.com/lambda/latest/dg/monitoring-insights.html#monitoring-insights-multifunction
+Three members in snow family - AWS Snowcone, AWS Snowball and AWS Snowmobile
+Check this out - https://aws.amazon.com/snow/
+
+Please check this blog. It gives good explainations - https://aws.amazon.com/blogs/enterprise-strategy/6-strategies-for-migrating-applications-to-the-cloud/

@@ -1,0 +1,40 @@
+>dotnet new classlib --name DataAccessLayer  -- To create new class libra
+>dotnet add reference ..\DataAccessLayer\DataAccessLayer.csproj -- add reference to project --Now the csproj file
+>dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version=3.1.0 --add package
+>dotnet ef	--check ef 
+>dotnet ef dbcontext Scaffold-Dbcontext -connection "Datasource=PUNITP368757L; Database=QuickKartDB; User Id=sa; Password=Infy@123" -Provider Microsoft.EntityFrameworkCore.SqlServer -o Models
+>dotnet ef dbcontext scaffold "Server=PUNITP368757L; Database=QuickKartDB; User Id=sa; Password=Infy@123" Microsoft.EntityFrameworkCore.SqlServer -o Models
+>Ctrl+Shift+D --To Debug the code
+>dotnet ef migrations add CreateQuickKartDBCore -- Add Database migration
+>dotnet ef database update
+> dotnet ef migrations remove
+> dotnet ef database update CreateQuickKartDBCore  --Reverting a Migration
+> dotnet ef migrations script 			   --Generating a SQL Script
+
+EF Core creates a primary key column if the property is named as Id or a name with <EntityClassName>Id (case insensitive).
+
+EF Core uses the collection properties in building relationships among corresponding tables in the database. This results in a One-to-Many relationships between the primary entity and the secondary entity i.e.Category and the Product entities. This is one of the conventions followed by EF Core related to One-to-Many relationship between entities
+EF Core creates a clustered index on primary key columns and a non-clustered indexes on foreign key columns by default.
+
+The code first conventions just maps the string data type to NVARCHAR(MAX) or NVARCHAR(450). The size of the string is either MAX or 450. 
+
+How do we mention the size of the string to be less than the MAX or 450? In other words, how to customize the entity classes without following the default code conventions?
+
+By configuring the entity classes using any one of the below given configurations:
+
+Data annotation attributes
+
+Fluent API
+
+dotnet sln <SLN_FILE> add [options] <PROJECT_PATH>
+>dotnet new sln --name QuickKart   Create solution file
+
+dotnet sln <SLN_FILE> add [options] <PROJECT_PATH>
+>dotnet sln QuickKart.sln add D:\Study\QuickKart\QuickKartTestApp\QuickKartTestApp.csproj     Add project in solution
+
+
+>dotnet run/build --project QuickKartTestApp   run/build the particular project in solution
+
+<PropertyGroup>         --set the startup class
+<StartupObject>CSharpToCopy.TestExtension</StartupObject>
+</PropertyGroup>
