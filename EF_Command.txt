@@ -39,6 +39,10 @@ dotnet sln <SLN_FILE> add [options] <PROJECT_PATH>
 <StartupObject>CSharpToCopy.TestExtension</StartupObject>
 </PropertyGroup>
 
+
+-----------------------------
+you are requested to drop a mail to:  finalsettlement@infosys.com 
+
 Name 	                Mail id 	         Telephone /Extn (Bangalore based)              Manager
 Akshatha Pai	         Akshatha_Pai	     080 39802889/+91 8105738656/+91 80 39802889   KRISHNKS@infosys.com  +91 7760985301/+91 80 39136475
 Shrikant R	           Shrikant_R	       080 39130143                                  KRISHNKS@infosys.com
@@ -53,6 +57,9 @@ Abhijeet_Naik@infosys.com  --+91 9168667952
 tejal emp id: 1051357
 --------------------------------------------
 vinayak.tayade@infosys.com  ---+91 8956412881
+ghanekar.tejalrohit@infosys.com  --+91 8956140904
+--------------------------------------------
+Pune.LT.Asset.Team@infosys.com
 
 Manisha, Sarita, Madhura Manaagr
 Shashikant_Masane@infosys.com  --+91 9579123368
@@ -61,4 +68,15 @@ Manisha_Jani@infosys.com    --+91 7720028992
 Sarita_Naik@infosys.com     --+91 9689922176
 madhura.mande@infosys.com   --+91 9967914466
 
-Laptop return & Separation – Please visit Ph-2, MLPL2 First floor to handover the asset. Timings – 09:00 am to 1:00 pm and 2:00 pm to 03:00 pm.  In case you cannot personally return it, you can also courier the Pune laptop on below address. Post receipt it will de-allocate from your name.  Note - Pls. provide your personal email ID as well so that confirmation can be sent on receipt of asset in case of e-sep.  Tejal Ghanekar (CCD)-8956140904/ Vinayak Tayade (CCD) 8956412881/ Sandip Kachare (CCD) 8956017990  Infosys Ltd. Plot 24/2, Phase II, Rajiv Gandhi Infotech Park, Gate No. -5, MLPL2, First floor, Mann Village, Taluka Mulshi, Pune - 411057 Pls note :  · Ensure that the asset is adequately packed so that it is safe.  · Also mention to the courier folks that this is an electronic item and needs to be handled with care.  You will receive mailer as an acknowledgement from Sandeep Kachare - 8956017990 / servicedesk_pune@infosys.com or once asset reaches to CCD.    Asset in Premises
+--------------------------------------------
+BP-HR
+brusty.swain@infosys.com  --+91 7735965693
+manager
+padmalaya_m@infosys.com       --+91 7381091277/+91 674 3076048
+---------------------------------------------
+
+
+
+Laptop return & Separation – Please visit Ph-2, MLPL2 First floor to handover the asset. Timings – 09:00 am to 1:00 pm and 2:00 pm to 03:00 pm.  In case you cannot personally return it, you can also courier the Pune laptop on below address. Post receipt it will de-allocate from your name. 
+Note - Pls. provide your personal email ID as well so that confirmation can be sent on receipt of asset in case of e-sep.  Tejal Ghanekar (CCD)-8956140904/ Vinayak Tayade (CCD) 8956412881/ Sandip Kachare (CCD) 8956017990  Infosys Ltd. Plot 24/2, Phase II, Rajiv Gandhi Infotech Park, Gate No. -5, MLPL2, First floor, Mann Village, Taluka Mulshi, Pune - 411057 
+Pls note :  · Ensure that the asset is adequately packed so that it is safe.  · Also mention to the courier folks that this is an electronic item and needs to be handled with care.  You will receive mailer as an acknowledgement from Sandeep Kachare - 8956017990 / servicedesk_pune@infosys.com or once asset reaches to CCD.    Asset in Premises
