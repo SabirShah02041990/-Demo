@@ -39,12 +39,19 @@ dotnet sln <SLN_FILE> add [options] <PROJECT_PATH>
 <StartupObject>CSharpToCopy.TestExtension</StartupObject>
 </PropertyGroup>
 
-Name 	Mail id 	Telephone /Extn
- (Bangalore based) 
-Akshatha Pai	Akshatha_Pai	080 39802889
-Shrikant R	Shrikant_R	080 39130143
-Veena Panduranga Pai	Veena_Panduranga	080 39802976
-Gopalkrishna	gopalkrishna	080 39802792
-Hari PrasadS	Hari_PrasadS	080 14114122
-Prasad HL	prasad_hl	080 39134215
-Ambarisha R	Ambarisha_R	080 39802297
+Name 	                Mail id 	         Telephone /Extn (Bangalore based)              Manager
+Akshatha Pai	         Akshatha_Pai	     080 39802889/+91 8105738656/+91 80 39802889   KRISHNKS@infosys.com
+Shrikant R	           Shrikant_R	       080 39130143                                  KRISHNKS@infosys.com
+Veena Panduranga Pai	 Veena_Panduranga	 080 39802976/+91 80 39136441                  KRISHNKS@infosys.com
+Gopalkrishna	         gopalkrishna	     080 39802792/+91 80 46274226                  KRISHNKS@infosys.com
+Hari PrasadS	         Hari_PrasadS	     080 14114122/+91 80 46274314                  Anil_Mathew01@infosys.com
+Prasad HL	            prasad_hl	        080 39134215/+91 80 39134215/+91 9538322833   KRISHNKS@infosys.com
+Ambarisha R	          Ambarisha_R	     080 39802297/+91 80 39802297                   KRISHNKS@infosys.com
+
+Tejal and vinayak Manager
+Abhijeet_Naik@infosys.com  --+91 9168667952
+--------------------------------------------
+vinayak.tayade@infosys.com  ---+91 8956412881
+
+Manisha, Sarita, Madhura Manaagr
+Shashikant_Masane@infosys.com  --+91 9579123368
